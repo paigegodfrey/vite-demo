@@ -14,7 +14,9 @@ This repo contains the content for the vite coding demo accompanying SITE Week 2
 
 # Getting Started
 
-`git clone git@github.com:paigegodfrey/vite-demo.git`
-`cd vite-demo`
-`npm install`
-`npm run dev`
+```
+git clone git@github.com:paigegodfrey/vite-demo.git
+cd vite-demo
+npm install
+npm run dev
+```
